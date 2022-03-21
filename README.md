@@ -1,2 +1,2 @@
 # hitmeup
-first GitHub repositary
+first GitHub repositary!
